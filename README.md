@@ -1,4 +1,4 @@
-# Hola, mi nombre es Sergio Marquez 👋
+# console.log('Hola, mi nombre es Sergio Marquez') 👋
 ### :computer: Carrera: Ingeniero en Tecnologías de la Información y Comunicación
 
 Soy ingeniero de software profesional desde hace dos años.
@@ -30,6 +30,9 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 [![SQLServer](https://img.shields.io/badge/Sql_Server-232F3E?style=for-the-badge&logo=Sql_Server&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
+
+## Mis Redes Sociales:
+[![Twitter](https://img.shields.io/badge/Twitter-@IngSergioMm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/IngSergioMm)
 
 <!--
 **SergioMarquezz/SergioMarquezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
