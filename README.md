@@ -11,7 +11,8 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
-![SonarQube](https://img.shields.io/static/v1?style=for-the-badge&message=SonarQube&color=4E9BCD&logo=SonarQube&logoColor=FFFFFF&label=)</br>
+![SonarQube](https://img.shields.io/static/v1?style=for-the-badge&message=SonarQube&color=4E9BCD&logo=SonarQube&logoColor=FFFFFF&label=)
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)</br>
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
@@ -33,6 +34,8 @@ Y alguna más...
 
 ## Mis Redes Sociales:
 [![Twitter](https://img.shields.io/badge/Twitter-@IngSergioMm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/IngSergioMm)
+[![Instagram](https://img.shields.io/badge/Instagram-@ingsoftwaresergio-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ingsoftwaresergio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Marquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-marquez-b23abb1a4/)
 
 <!--
 **SergioMarquezz/SergioMarquezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
