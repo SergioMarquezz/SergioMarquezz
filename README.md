@@ -2,7 +2,7 @@
 ### :computer: Carrera: Ingeniero en Tecnologías de la Información y Comunicación
 ### Trabajo Actual: Lider Técnico de Desarrollo (Lider de proyectos)
 
-Soy ingeniero de software profesional desde hace dos años.
+Soy ingeniero de software profesional desde hace cuatro años.
 
 Termine mi carrera en el año 2020 en el mes de Abril, en Junio del mismo año, cambie de residencia al estado de Puebla para trabajar como desarrollador, despues de haber vivido una experencia profesional de dos meses, migre para la Ciudad de Mexico, donde actualmente es mi lugar de trabajo, tuve la oportunidad de llegar nuevamente como desarrollador, despues de un tiempo y con un buen desempeño laboral, me dieron un accenso como Lider de Desarrollo, actualemte sigo desempeñado ese puesto, con personal a mi cargo y con las mismas ganas de seguir creciendo profesionalmente.
 
@@ -18,17 +18,20 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)</br>
 
-#Otros
+# Otros
 
 ![SonarQube](https://img.shields.io/static/v1?style=for-the-badge&message=SonarQube&color=4E9BCD&logo=SonarQube&logoColor=FFFFFF&label=)
 ![Swagger](https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=)
 
 ## FrontEnd
-![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)</br>
+![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF61F6&logo=Adobe+XD&logoColor=FFFFFF&label=)
+![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 
 ## IDE
-![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)</br>
+![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
+![Eclipse IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Eclipse+IDE&color=2C2255&logo=Eclipse+IDE&logoColor=FFFFFF&label=)
+![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 
 ## Git
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
