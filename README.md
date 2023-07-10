@@ -15,6 +15,7 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
 [![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 ![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=222222&logo=JavaScript&logoColor=F7DF1E&label=)
+![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![Android](https://img.shields.io/static/v1?style=for-the-badge&message=Android&color=222222&logo=Android&logoColor=3DDC84&label=)
 ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)</br>
 
@@ -25,6 +26,8 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 
 ## FrontEnd
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
+![Material Design](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design&color=757575&logo=Material+Design&logoColor=FFFFFF&label=)
+![Material Design Icons](https://img.shields.io/static/v1?style=for-the-badge&message=Material+Design+Icons&color=2196F3&logo=Material+Design+Icons&logoColor=FFFFFF&label=)
 ![Adobe XD](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+XD&color=FF61F6&logo=Adobe+XD&logoColor=FFFFFF&label=)
 ![Angular](https://img.shields.io/static/v1?style=for-the-badge&message=Angular&color=DD0031&logo=Angular&logoColor=FFFFFF&label=)
 
@@ -34,6 +37,7 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 ![IntelliJ IDEA](https://img.shields.io/static/v1?style=for-the-badge&message=IntelliJ+IDEA&color=000000&logo=IntelliJ+IDEA&logoColor=FFFFFF&label=)
 ![Sublime Text](https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label=)
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
+![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
 ## Git
@@ -46,6 +50,7 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 [![SQLServer](https://img.shields.io/badge/Sql_Server-232F3E?style=for-the-badge&logo=Sql_Server&logoColor=white&labelColor=101010)]()
 </br>
 
