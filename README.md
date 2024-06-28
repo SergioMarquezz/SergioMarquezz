@@ -27,6 +27,14 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 ![Elastic](https://img.shields.io/static/v1?style=for-the-badge&message=Elastic&color=005571&logo=Elastic&logoColor=FFFFFF&label=)
 ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
+![Red Hat](https://img.shields.io/static/v1?style=for-the-badge&message=Red+Hat&color=EE0000&logo=Red+Hat&logoColor=FFFFFF&label=)
+![Apache Tomcat](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Tomcat&color=222222&logo=Apache+Tomcat&logoColor=F8DC75&label=)
+![XAMPP](https://img.shields.io/static/v1?style=for-the-badge&message=XAMPP&color=FB7A24&logo=XAMPP&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
+![Insomnia](https://img.shields.io/static/v1?style=for-the-badge&message=Insomnia&color=4000BF&logo=Insomnia&logoColor=FFFFFF&label=)
+![WakaTime](https://img.shields.io/static/v1?style=for-the-badge&message=WakaTime&color=000000&logo=WakaTime&logoColor=FFFFFF&label=)
+![FileZilla](https://img.shields.io/static/v1?style=for-the-badge&message=FileZilla&color=BF0000&logo=FileZilla&logoColor=FFFFFF&label=)
+![Microsoft Teams](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Teams&color=6264A7&logo=Microsoft+Teams&logoColor=FFFFFF&label=)
 
 ## FrontEnd
 ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
@@ -43,6 +51,7 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 ![PyCharm](https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=)
 ![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![Apache NetBeans IDE](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+NetBeans+IDE&color=1B6AC6&logo=Apache+NetBeans+IDE&logoColor=FFFFFF&label=)
 
 ## Git
 ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
@@ -55,6 +64,8 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
+![SQLite](https://img.shields.io/static/v1?style=for-the-badge&message=SQLite&color=003B57&logo=SQLite&logoColor=FFFFFF&label=)
+![DBeaver](https://img.shields.io/static/v1?style=for-the-badge&message=DBeaver&color=382923&logo=DBeaver&logoColor=FFFFFF&label=)
 [![SQLServer](https://img.shields.io/badge/Sql_Server-232F3E?style=for-the-badge&logo=Sql_Server&logoColor=white&labelColor=101010)]()
 </br>
 
