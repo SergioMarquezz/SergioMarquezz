@@ -91,9 +91,9 @@ Y algunas otras más tecnologias...
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IngSergioMm) 
 
 # 📊 GitHub:
-![](https://github-readme-stats.vercel.app/api?username=SergioMarquezz&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SergioMarquezz&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMarquezz&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SergioMarquezz&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SergioMarquezz&theme=neon&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMarquezz&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/><br/>
 
 
 ### 🔝 Top Contributed Repo
