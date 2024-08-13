@@ -86,9 +86,18 @@ El reflejo de mi sueño es seguir aprendiendo nuevos conocimientos y tecnologias
 Y algunas otras más tecnologias...
 
 ## Mis Redes Sociales:
-[![Twitter](https://img.shields.io/badge/Twitter-@IngSergioMm-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/IngSergioMm)
-[![Instagram](https://img.shields.io/badge/Instagram-@ingsoftwaresergio-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/ingsoftwaresergio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Marquez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-marquez-b23abb1a4/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ingsoftwaresergio) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergio-marquez-b23abb1a4) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IngSergioMm) 
+
+# 📊 GitHub:
+![](https://github-readme-stats.vercel.app/api?username=SergioMarquezz&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SergioMarquezz&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioMarquezz&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SergioMarquezz&limit=5&theme=material-palenight&combine_all_yearly_contributions=true)
 
 <!--
 **SergioMarquezz/SergioMarquezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
